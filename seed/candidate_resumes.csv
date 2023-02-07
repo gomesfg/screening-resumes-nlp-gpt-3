@@ -1,0 +1,31 @@
+Nome;Idade;Formação;Experiência Profissional;Habilidades
+Camila Costa;23;Engenharia de Software;3 anos na empresa XYZ, trabalhando como desenvolvedora full-stack;Java, Spring, SpringBoot, SpringData, AngularJS, PostgreSQL, Docker
+Marcelo Souza;28;Ciência da Computação;5 anos de experiência em desenvolvimento de software;Java, Spring, SpringBoot, React, MongoDB, Docker
+Ricardo Silva;31;Engenharia de Computação;8 anos trabalhando como arquiteto de software;Java, Spring, SpringBoot, Node.js, React, SQL Server, Docker
+Tiago Moreira;25;Ciência da Computação;2 anos de experiência em desenvolvimento de aplicativos móveis;Java, Android, React Native, PostgreSQL
+Marina Costa;26;Sistemas de Informação;3 anos de experiência em desenvolvimento web;Java, Spring, Angular, MongoDB, RabbitMQ
+André Santos;29;Engenharia de Computação;5 anos trabalhando como desenvolvedor full-stack;Java, Spring, SpringBoot, Node.js, React, MySQL, Docker
+Luiza Silva;24;Sistemas de Informação;2 anos de experiência em desenvolvimento de software;Java, Spring, SpringBoot, React, MongoDB
+Vitor Santos;30;Engenharia de Software;7 anos trabalhando como arquiteto de software;Java, Spring, SpringBoot, AngularJS, PostgreSQL, Docker
+Ana Paula Silva;26;Ciência da Computação;3 anos de experiência em desenvolvimento de aplicativos móveis;Java, Android, React Native, MongoDB
+Paulo Moreira;27;Sistemas de Informação;4 anos de experiência em desenvolvimento web;Java, Spring, Angular, PostgreSQL, RabbitMQ
+Gabriel Santos;28;Engenharia de Computação;5 anos trabalhando como desenvolvedor full-stack;Java, Spring, SpringBoot, Node.js, React, MySQL, Docker
+Lara Silva;24;Ciência da Computação;2 anos de experiência em desenvolvimento de software;Java, Spring, SpringBoot, React, MongoDB
+Pedro Moreira;30;Engenharia de Software;7 anos trabalhando como arquiteto de software;Java, Spring, SpringBoot, AngularJS, PostgreSQL, Docker
+Juliana Santos;26;Sistemas de Informação;3 anos de experiência em desenvolvimento de aplicativos móveis;Java, Android, React Native, MongoDB
+Matheus Silva;29;Engenharia de Computação;5 anos trabalhando como desenvolvedor full-stack;Java, Spring, SpringBoot, Node.js, React, MySQL, Docker
+Gabriel Moreira;28;Sistemas de Informação;Desenvolvedor Full Stack na Empresa Y;Java, REST, SprintBoot, RabbitMq, Angular, Docker, PostgreSql
+Larissa Silva;30;Engenharia de Software;Desenvolvedora Full Stack na Empresa Z;Java, Spring, AngularJS, Docker, SQL Server
+Vitor Costa;29;Ciência da Computação;Desenvolvedor Full Stack na Empresa A;Java, REST, SprintBoot, RabbitMq, Angular, Docker, Oracle
+Lucas Silva;27;Análise e Desenvolvimento de Sistemas;Desenvolvedor Full Stack na Empresa B;Java, Spring, AngularJS, Docker, PostgreSql
+Bruna Costa;25;Engenharia da Computação;Desenvolvedora Full Stack na Empresa C;Java, REST, SprintBoot, RabbitMq, Angular, Docker, SQL Server
+Rafael Silva;31;Sistemas para Internet;Desenvolvedor Full Stack na Empresa D;Java, Spring, AngularJS, Docker, Oracle
+Letícia Moreira;26;Engenharia da Computação;Desenvolvedora Full Stack na Empresa E;Java, REST, SprintBoot, RabbitMq, Angular, Docker, PostgreSql
+Guilherme Costa;28;Análise e Desenvolvimento de Sistemas;Desenvolvedor Full Stack na Empresa F;Java, Spring, AngularJS, Docker, SQL Server
+Julia Gomes;30;Sistemas de Informação;Desenvolvedora Full Stack na Empresa G;Java, REST, SprintBoot, RabbitMq, Angular, Docker, Oracle
+Ricardo Silva;29;Ciência da Computação;Desenvolvedor Full Stack na Empresa H;Java, Spring, AngularJS, Docker, PostgreSql
+Leticia Gomes;27;Engenharia de Software;Desenvolvedora Full Stack na Empresa I;Java, REST, SprintBoot, RabbitMq, Angular, Docker, SQL Server
+Eduardo Costa;25;Engenharia da Computação;Desenvolvedor Full Stack na Empresa J;Java, Spring, AngularJS, Docker, Oracle
+Luiza Silva;31;Análise e Desenvolvimento de Sistemas;Desenvolvedora Full Stack na Empresa K;Java, REST, SprintBoot, RabbitMq, Angular, Docker, PostgreSql
+Thiago Gomes;26;Sistemas para Internet;Desenvolvedor Full Stack na Empresa L;Java, Spring, AngularJS, Docker, PostgreSql
+Bianca Moreira;28;Engenharia de Software;Desenvolvedora Full Stack na Empresa M;Java, REST, SprintBoot, RabbitMq, Angular, Docker, Oracle
