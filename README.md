@@ -31,7 +31,7 @@ O principal problema que os algoritmos enfrentavam até então, era a falta de p
 
 [(Voltar ao topo)](#index)
 
-- Para o desenvolvimento do trabalho, foi utilizada a linguagem Python e as bibliotecas de algoritmos e análise de dados, Pandas e OpenAI.
+- Para o desenvolvimento do trabalho, foi utilizada a linguagem Python e as bibliotecas Pandas (algoritmos e análise de dados) e OpenAI (processamento de linguagem natural GPT-3).
 
 - O notebook contendo as anotações está disponível [AQUI](https://github.com/gomesfg/screening-resumes-using-generative-ai/blob/main/screening_resumes_using_generative_ai.ipynb).
 
