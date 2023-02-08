@@ -11,7 +11,8 @@
 
 [(Voltar ao topo)](#index)
 
-- Possuir uma conta Google
+- Possuir uma conta Google;
+- API Key para executar a API REST do OpenAI (deve ser configurada dentro do notebook).
 
 ## Introdução <a name="introduction"></a>
 
@@ -20,9 +21,11 @@
 - Os modelos GPT vem demonstrando habilidade excepcional em responder questões com base em informações disponíveis na web, em livros e na vasta gama de fontes usados para treiná-los. Neste projeto, a proposta é desenvolver um modelo utilizando as habilidades de pergunta e resposta do GPT-3, para resolver um problema da triagem de currículos.
 
 - Mas porque desenvolver um modelo de triagem de curriculos? 
-O principal problema que os algoritmos enfrentavam até então, era a falta de padronização e informação nos currículos, tornando a triagem um desafio para as ferramentas tradicionais, como bancos de dados SQL ou buscadores de texto. Isso ocorre pois as ferramentas tradicionais não possuem a capacidade de interpretar informações contextuais ou semânticas significativas.
+O principal problema que os algoritmos enfrentavam até então, era a falta de padronização e informação nos currículos, tornando a triagem um desafio para as ferramentas tradicionais, como bancos de dados SQL ou buscadores de texto. Isso ocorre pois as ferramentas tradicionais não possuem a capacidade de interpretar informações contextuais ou semânticas significativas. É aqui que entra o GPT-3 :D
 
 - O objetivo principal é fornecer um dataset de curriculos para que o GPT-3 analise e responda com base nas informações, qual o melhor candidato para ocupar determinada posição, justificando a escolha. 
+
+- Este modelo foi feito para fins de aprendizado, para melhorias futuras pode ser refatorado considerando a utilização da técnica de fine-tuning que consiste em treinar a rede neural pré-treinada do GPT-3, para uma tarefa específica com um conjunto menor de dados.
 
 ## Desenvolvimento <a name="development"></a>
 
