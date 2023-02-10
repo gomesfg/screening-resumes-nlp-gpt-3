@@ -1,4 +1,4 @@
-# Triagem de currículos utilizando IA Generativa (GPT-3)
+# Triagem de currículos utilizando GPT-3
 
 ## Índice <a name="index"></a>
 
