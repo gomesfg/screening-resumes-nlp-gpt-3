@@ -1,3 +1,5 @@
+UPDATE 29/03/2023 - Criei novo repositório onde utilizo a versão GPT-4 -> [AQUI](https://github.com/gomesfg/screening-resumes-gpt4-python)
+
 # Triagem de currículos utilizando GPT-3
 
 ## Índice <a name="index"></a>
